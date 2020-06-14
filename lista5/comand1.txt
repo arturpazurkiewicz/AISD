@@ -1,0 +1,17 @@
+16
+empty
+insert 3 0
+print
+insert 5 1
+insert 4 0
+insert 8 5
+print
+priority 8 0
+print
+priority 5 2
+print
+top
+pop
+top
+empty
+print

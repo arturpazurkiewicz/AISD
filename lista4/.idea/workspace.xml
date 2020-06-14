@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd0f2529-36c2-469f-8d42-c9ee87f4c89d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bj4s7jDCYhCmyMZK06mpgegMd0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35402298" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Studia\aisd\lista4" />
+      <recent name="C:\Studia\aisd\lista4\target" />
+      <recent name="C:\Studia\aisd\lista4\src" />
+      <recent name="C:\Studia\aisd\lista4\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Studia\aisd\lista4\src" />
+      <recent name="C:\Studia\aisd\lista4" />
+      <recent name="C:\Studia\aisd\lista4\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="lista4" />
+      <option name="PROGRAM_PARAMETERS" value="-i test.txt --mode test1 --max 40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd0f2529-36c2-469f-8d42-c9ee87f4c89d" name="Default Changelist" comment="" />
+      <created>1589132372025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589132372025</updated>
+      <workItem from="1589132374806" duration="13481000" />
+      <workItem from="1589187389150" duration="28527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2112" y="-70" key="#Project_Structure" timestamp="1589203499524">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state x="2112" y="-70" key="#Project_Structure/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589203499524" />
+    <state x="2028" y="435" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589221596804">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state x="2028" y="435" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589221596804" />
+    <state x="2325" y="-13" key="#com.intellij.ide.util.MemberChooser" timestamp="1589209014531">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state x="2325" y="-13" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589209014531" />
+    <state width="1157" height="597" key="GridCell.Tab.0.bottom" timestamp="1589222170010">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="3" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589219384550" />
+    <state width="1157" height="597" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589222170010" />
+    <state width="1157" height="597" key="GridCell.Tab.0.center" timestamp="1589222170010">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="3" key="GridCell.Tab.0.center/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589219384550" />
+    <state width="1157" height="597" key="GridCell.Tab.0.center/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589222170010" />
+    <state width="1157" height="597" key="GridCell.Tab.0.left" timestamp="1589222170010">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="3" key="GridCell.Tab.0.left/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589219384550" />
+    <state width="1157" height="597" key="GridCell.Tab.0.left/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589222170010" />
+    <state width="1157" height="597" key="GridCell.Tab.0.right" timestamp="1589222170010">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="3" key="GridCell.Tab.0.right/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589219384550" />
+    <state width="1157" height="597" key="GridCell.Tab.0.right/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589222170010" />
+    <state width="1157" height="743" key="GridCell.Tab.1.bottom" timestamp="1589204819784">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589135393289" />
+    <state width="1157" height="743" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589204819784" />
+    <state width="1157" height="743" key="GridCell.Tab.1.center" timestamp="1589204819784">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.1.center/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589135393289" />
+    <state width="1157" height="743" key="GridCell.Tab.1.center/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589204819784" />
+    <state width="1157" height="743" key="GridCell.Tab.1.left" timestamp="1589204819784">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.1.left/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589135393289" />
+    <state width="1157" height="743" key="GridCell.Tab.1.left/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589204819784" />
+    <state width="1157" height="743" key="GridCell.Tab.1.right" timestamp="1589204819784">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.1.right/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589135393289" />
+    <state width="1157" height="743" key="GridCell.Tab.1.right/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589204819784" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1589132426280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589132426280" />
+    <state x="2021" y="-86" key="SettingsEditor" timestamp="1589193449136">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state x="2021" y="-86" key="SettingsEditor/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589193449136" />
+    <state x="2250" y="27" key="extract.method.dialog" timestamp="1589200824215">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state x="2250" y="27" key="extract.method.dialog/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589200824215" />
+    <state x="339" y="71" width="971" height="628" key="find.popup" timestamp="1589219344397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="71" width="971" height="628" key="find.popup/0.0.1536.824/1920.-668.1200.1880@0.0.1536.824" timestamp="1589219344397" />
+    <state x="2141" y="-42" width="758" height="628" key="find.popup/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589203353963" />
+    <state x="2262" y="-118" key="refactoring.ChangeSignatureDialog" timestamp="1589188783711">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state x="2262" y="-118" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589188783711" />
+    <state x="2183" y="-233" width="672" height="678" key="search.everywhere.popup" timestamp="1589204211630">
+      <screen x="1920" y="-668" width="1200" height="1880" />
+    </state>
+    <state x="2183" y="-233" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.-668.1200.1880@1920.-668.1200.1880" timestamp="1589204211630" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/BinarySearchTree.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/HashMap.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
